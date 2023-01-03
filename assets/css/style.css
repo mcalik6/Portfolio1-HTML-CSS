@@ -1,16 +1,17 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url("https://use.typekit.net/rax8agp.css");
 * {
     margin: 0px;
-    padding : 0;
+    padding : 0px;
     border: none;
 }
 
 body {
-    font-family: 'Josefin Sans ', sans-serif;
-    font-weight: 400;
+    font-family: hypatia-sans-pro,sans-serif;
+    font-weight: 600;
+    font-style: normal;
     color: #262626;
-    background-color: rgb(213, 213, 210);
+    background-color: rgba(243, 243, 243, 0.766);
 }
 /*logo and menu*/
 #logo {
@@ -18,17 +19,22 @@ body {
     width: 200px;
     float: left;
     padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 #menu {
     float:right
+    
 }
-
+#menu, #logo {
+    line-height: 75px;
+    
+}
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    padding-top: 20px;
+    padding-top: 5px;
 }
 #menu a {
     text-decoration: none;
@@ -39,7 +45,7 @@ body {
 }
 
 .active {
-text-shadow: 0px 1px #9f9f9f;
+text-shadow: 0px 1px #ffffff;
 }
 
 /*background*/
@@ -47,29 +53,46 @@ text-shadow: 0px 1px #9f9f9f;
 .container {
 
     width: 100%;
+    
   }
   
   .image {
 
     width: 100%;
     height: auto;
+    opacity: .9;
+    border: 1px solid rgb(80, 79, 79);
+    -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(233, 233, 239,.6));
+    
   }
-  
-  .overlay {
-    position:absolute;
-
-    background: rgb(0, 0, 0);
-    background: rgba(0, 0, 0, 0.5); 
-    color: #f1f1f1;
-    width: 100%;
-    transition: .5s ease;
-    opacity:0;
-    color: white;
-    font-size: auto;
-    padding: 20px;
+  #about{
+    padding-top: 20px;
+    position: relative;
     text-align: center;
-  }
+    font-size: 110%;}
 
-  .container:hover .overlay {
-    opacity: 1;
-  }
+    
+.itisfun {
+            padding-top: 30px;
+            width: 33%;
+            float: left;
+            text-align: center;
+        }
+        
+ .itisfriendly   {
+            
+    padding-top: 30px;
+            width: 33%;
+            float: right;
+            text-align: center;
+        }
+        
+        
+        
+    .itishealthy {
+            
+            width: 33%;
+            
+            padding-right: 50%;
+            text-align: center;
+        }
