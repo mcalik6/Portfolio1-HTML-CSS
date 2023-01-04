@@ -62,37 +62,53 @@ text-shadow: 0px 1px #ffffff;
     height: auto;
     opacity: .9;
     border: 1px solid rgb(80, 79, 79);
-    -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(233, 233, 239,.6));
+    -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(233, 233, 239,.4));
     
   }
   #about{
     padding-top: 20px;
     position: relative;
     text-align: center;
-    font-size: 110%;}
+    font-size: 130%;
+    
+}
 
     
 .itisfun {
-            padding-top: 30px;
-            width: 33%;
-            float: left;
-            text-align: center;
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    text-align: center;
         }
         
- .itisfriendly   {
-            
+ .itisfriendly   { 
     padding-top: 30px;
-            width: 33%;
-            float: right;
-            text-align: center;
+    width: 33%;
+    float: right;
+    text-align: center;
+    padding-top: -30px;
         }
         
         
         
     .itishealthy {
-            
-            width: 33%;
-            
-            padding-right: 50%;
-            text-align: center;
+        width: 33%;
+        margin: 0 auto;
+        text-align: center;
+        padding-top: 30px;
+
         }
+
+#column {
+    display:inline-block;
+}
+
+.reason{
+    padding-top: 30px;
+    text-align: center;
+    border-top: #3a3a3a 4px;
+    position: relative;
+}
+
+    
+        
