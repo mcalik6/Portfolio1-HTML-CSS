@@ -124,7 +124,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url(/assets/photos/bernese1.JPG);
+    background: url("../photos/bernese1.JPG");
     background-size: cover;
     background-position: top;
     height: 900px;
@@ -134,9 +134,9 @@ footer {
     margin: 150px 10% 0 0;
     color: #fff;
     background-color: rgba(68, 80, 70, 0.6);
-    max-width: 150px;
+    max-width: 160px;
     position: absolute;
-    left: 15%;
+    left: 10%;
     padding: 20px;
     text-align: center
 }
