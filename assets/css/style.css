@@ -124,7 +124,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("assets/photos/bernese1.JPG");
+    background: url("../photos/bernese1.JPG");
     background-size: cover;
     background-position: top;
     height: 900px;
