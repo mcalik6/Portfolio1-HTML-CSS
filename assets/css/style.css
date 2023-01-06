@@ -169,3 +169,24 @@ footer {
     background-color: #fafafa;
     color: #6d6d6d;
 }
+
+@media screen and (max-width: 950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    #photos {
+        column-count: 2;
+    }
+    #about{
+        font-size: 80%;
+    }
+    .reason{
+        font-size: 80%;
+    }
+}
+
