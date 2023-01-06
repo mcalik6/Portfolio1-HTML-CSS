@@ -8,3 +8,8 @@ contact form will allow them to join to group.
 
 ![image](https://user-images.githubusercontent.com/116521971/211062796-b627338e-115a-4332-b73f-89e172664abc.png)
 
+Features
+
+- on the right hand side of the "about us" page there is a logo linked to the website
+- on the right hand side you can find navigation links to "about us" page "gallery" page "get in touch" page
+
