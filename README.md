@@ -33,3 +33,17 @@ Simple form which alows to contsct with us
 ![image](https://user-images.githubusercontent.com/116521971/211075246-3ea72471-e910-4946-a856-972457323369.png)
 
 
+
+TESTING
+- I tested that website is working in CHrome And Internet Explorer
+- I confirmed theat website is working on different deivices
+- I confirmed that get in touch form is working
+
+BUGS WHICH  WERE SOLVED
+
+after the website was deployed I had to change all of the adresses of pictures and css styling in website 
+example:
+src="../Portfolio1-HTML-CSS/assets/photos/bernese1.JPG" - this picture was adressed wrong
+src="assets/photos/bernese1.JPG"  -this is working
+
+
