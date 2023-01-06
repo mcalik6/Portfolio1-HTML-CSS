@@ -34,6 +34,7 @@ Simple form which alows to contsct with us
 
 
 
+
 TESTING
 - I tested that website is working in CHrome And Internet Explorer
 - I confirmed theat website is working on different deivices
@@ -46,4 +47,24 @@ example:
 src="../Portfolio1-HTML-CSS/assets/photos/bernese1.JPG" - this picture was adressed wrong
 src="assets/photos/bernese1.JPG"  -this is working
 
+Validator Testing
+HTML
+4 errors were returned when passing  on index page and one error on gallery page all of them were fixed and tested through the official W3C validator
+CSS
+No errors were found when passing through the official (Jigsaw) validator
+
+Accesibility: (chrome lighthouse report)
+
+![image](https://user-images.githubusercontent.com/116521971/211084628-f84cbbde-1120-44cc-b7a1-3725cadc6b11.png)
+
+Deployement:
+
+The site was deployed to GitHub pages.
+Link to site:
+https://mcalik6.github.io/Portfolio1-HTML-CSS/index.html
+
+
+Credits
+
+Code for the footer was used from the Love Running Project
 
