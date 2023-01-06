@@ -13,3 +13,23 @@ Features
 - on the right hand side of the "about us" page there is a logo linked to the website
 - on the right hand side you can find navigation links to "about us" page "gallery" page "get in touch" page
 
+![image](https://user-images.githubusercontent.com/116521971/211072332-85bdaacd-c651-4c33-a355-34125407b72b.png)
+
+Main Page content
+-contain picture representing horizontal picture
+-rest of content explains reasining of website existance
+
+![image](https://user-images.githubusercontent.com/116521971/211072781-4104da69-d24f-473a-ad97-fc922878a00d.png)
+
+Gallery Page
+Contains pictures from group trips and events
+
+![image](https://user-images.githubusercontent.com/116521971/211074881-81912dcc-129a-4355-b351-8092a8230dbe.png)
+
+
+Get in touch form
+Simple form which alows to contsct with us
+![image](https://user-images.githubusercontent.com/116521971/211075180-75887994-2aa8-4190-abf1-50aee6ad5587.png)
+![image](https://user-images.githubusercontent.com/116521971/211075246-3ea72471-e910-4946-a856-972457323369.png)
+
+
